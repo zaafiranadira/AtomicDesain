@@ -3,7 +3,7 @@
 # Atomic design pada web lms polsri
 
 1. Atom 
-    ![example](https://raw.githubusercontent.com/Honk1time/iqbal-AD/main/media/ss1.png)
+    ![example](https://raw.githubusercontent.com/Honk1time/iqbal-AD/main/media/ssatom.png)
     ![example](https://raw.githubusercontent.com/Honk1time/iqbal-AD/main/media/atoms1.png)
     ![example](https://raw.githubusercontent.com/Honk1time/iqbal-AD/main/media/atoms2.png)
 
