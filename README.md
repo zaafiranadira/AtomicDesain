@@ -53,7 +53,7 @@
 ![example](https://raw.githubusercontent.com/Honk1time/iqbal-AD/main/media/UigmMolecules.png)
 ![example](https://raw.githubusercontent.com/Honk1time/iqbal-AD/main/media/ss2.png)
 
-pada bagian molecules kelebihan yang dimilik oleh website uigm adalah
+pada bagian molecules kelebihan yang dimiliki oleh website uigm adalah
 bisa bergerak layaknya sebuah display yang dimana tidak membuat user cepat bosan
 
 3. Organism
@@ -77,7 +77,7 @@ bisa bergerak layaknya sebuah display yang dimana tidak membuat user cepat bosan
  5. Halaman
 
   ![example](https://raw.githubusercontent.com/Honk1time/iqbal-AD/main/media/UigmPage.png)
-  ![example](https://raw.githubusercontent.com/Honk1time/iqbal-AD/main/media/ss4.png)
+  ![example](https://raw.githubusercontent.com/Honk1time/iqbal-AD/main/media/ss5.png)
  
 
  di bagian akhir yaitu halaman semua komponen dari mulai atom sampai organism terususn rapih
