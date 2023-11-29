@@ -12,6 +12,8 @@
 
 
 2. Molecule 
+    
+    
     ![example](https://raw.githubusercontent.com/Honk1time/iqbal-AD/main/media/molecules.png)
 
     Naik ke tingkat MOLECUL dimana beberapa elements/atoms men jadi satu dan membuat 1 label profil seperti pada gambar diatas
