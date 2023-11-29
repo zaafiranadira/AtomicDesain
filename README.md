@@ -66,7 +66,7 @@ bisa bergerak layaknya sebuah display yang dimana tidak membuat user cepat bosan
 
  4. Templates
 
-  ![example](https://raw.githubusercontent.com/Honk1time/iqbal-AD/main/media/ss1.png)
+  ![example](https://raw.githubusercontent.com/Honk1time/iqbal-AD/main/media/UigmTemplates.png)
   ![example](https://raw.githubusercontent.com/Honk1time/iqbal-AD/main/media/ss1.png)
  
   
@@ -76,8 +76,8 @@ bisa bergerak layaknya sebuah display yang dimana tidak membuat user cepat bosan
  
  5. Halaman
 
- ![example](https://raw.githubusercontent.com/Honk1time/iqbal-AD/main/media/ss1.png)
-  ![example](https://raw.githubusercontent.com/Honk1time/iqbal-AD/main/media/ss1.png)
+  ![example](https://raw.githubusercontent.com/Honk1time/iqbal-AD/main/media/UigmPage.png)
+  ![example](https://raw.githubusercontent.com/Honk1time/iqbal-AD/main/media/ss4.png)
  
 
  di bagian akhir yaitu halaman semua komponen dari mulai atom sampai organism terususn rapih
