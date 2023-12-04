@@ -1,4 +1,4 @@
-# iqbal-AD
+# Atomic Desain
 
 # Atomic design pada web lms polsri
 
